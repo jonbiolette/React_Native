@@ -3,14 +3,13 @@ import { FlatList, StyleSheet, Text, View } from 'react-native';
 
 const styles = StyleSheet.create({
   container: {
-
-   flex: 1,
+  flex:1,
   },
   item: {
 
-    padding: 10,
+    padding: 5,
     fontSize: 18,
-    height: 44,
+    height: 30,
   },
 });
 
